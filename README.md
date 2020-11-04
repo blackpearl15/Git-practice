@@ -25,7 +25,7 @@ Building a **plagiarism detector** that can detect both text and source code pla
 * Checking from various sites like medium,tutorialspoint etc..
 
 ## _ABOUT V-Detect_
-A basic **python** API developed on **django platform**for calculating **similarity percentage/plagiarism percentage** between original and reference code in which the user needs to either enter the reference code **manually**, upload the reference code file or can **upload the link** of the reference code from some of the **online sites** like GFG, etc.
+A basic **python** API developed on **django platform** for calculating **similarity percentage/plagiarism percentage** between original and reference code in which the user needs to either enter the reference code **manually**, upload the reference code file or can **upload the link** of the reference code from some of the **online sites** like GFG, etc.
 
 ## VAROUS MORE FEATURES PROVIDED
 * **Login, Logout, and Profile Update** features provided to user.
